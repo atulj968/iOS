@@ -54,3 +54,16 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
             > Core Animation
             > OpenGLES
             
+   * Cocoa Touch
+    
+            > Multitouch
+            > Core Motion
+            > View Hierarchy
+            > Localization
+            > Controls
+            > Alerts
+            > Web View
+            > Map-kit
+            > Image Picer
+            > Camera
+            
