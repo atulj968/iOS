@@ -17,7 +17,7 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
   - CS106A&B(or X) reuired & CS107 or CS108 or CS110 also(at minimum)required.
 ### Parts
   * Core OS 
-  ```
+  
             > OSX Kernel
             > Mach 3.0
             > BSD
@@ -28,9 +28,9 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
             > Certificates
             > File System
             > Bonjour
-    ```
-    * Core Service
-    ```
+    
+   * Core Service
+    
             > Collections
             > Address Book
             > Networking
@@ -41,4 +41,16 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
             > Threading
             > Preference
             > URL Utilities
-     ```
+   * Media
+   
+            > Core Audio
+            > OpenAL
+            > Audio Mixing
+            > Audio Recording
+            > Video Playback
+            > JEPG, PNG, TIEF
+            > PDF
+            > Quartz(2D)
+            > Core Animation
+            > OpenGLES
+            
