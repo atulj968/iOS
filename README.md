@@ -15,3 +15,15 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
 ### Prior Coursework
   - Object-Oriented Programming experience mendatory.
   - CS106A&B(or X) reuired & CS107 or CS108 or CS110 also(at minimum)required.
+### Parts
+  * Core OS > OSX Kernel
+            > Mach 3.0
+            > BSD
+            > Sockets
+            > Sequrity
+            > Power Management
+            > Keychain Access
+            > Certificates
+            > File System
+            > Bonjour
+            
