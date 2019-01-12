@@ -67,3 +67,4 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
             > Image Picer
             > Camera
             
+    - Cocoa Touch is the UI layer of iOS, where button and the sliders lies.
