@@ -68,3 +68,9 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
             > Camera
             
     - Cocoa Touch is the UI layer of iOS, where button and the sliders lies.
+
+## Plateform Components
+  * Tools - XCode,  Instruments.
+  * Language - Swift, Objective-C
+  * Frameworks - Foundation, Coredata, UIKit, MapKit etc.
+  * Design Strategy - MVC(Model view control)
