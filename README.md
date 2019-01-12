@@ -82,3 +82,4 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
     
   - Topic of Demo
     - Creating a project in XCode9, including building a UI and running in the iOS simulator subclassing in Swift, including how to specify instance variable and methods connecting UI elements to invoke methods in our Swift code print(Outputting to the console using \() notatoin)
+    - Connection properties(instance variables) from our Swift code to the UI(Outlet).
