@@ -74,3 +74,11 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
   * Language - Swift, Objective-C
   * Frameworks - Foundation, Coredata, UIKit, MapKit etc.
   * Design Strategy - MVC(Model view control)
+
+## Demo
+  - Concentration Game
+    All this stuff can be very abstract until you see it in action.
+    We'll start getting comfortable with Swift4 and XCode 9 by building something right away.
+    
+  - Topic of Demo
+    - Creating a project in XCode9, including building a UI and running in the iOS simulator subclassing in Swift, including how to specify instance variable and methods connecting UI elements to invoke methods in our Swift code print(Outputting to the console using \() notatoin)
