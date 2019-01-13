@@ -87,7 +87,7 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
     - Automatically doing something everytime a property's value changes.
     - Array
     - Optional
-## Let's Play
+## Let's Create
     1. Open XCode.
     2. Select 'Get Start a new Project'.
     3. Click on iOS.
@@ -103,3 +103,6 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
     11. Catch button and drag it on UI, Change the size & rename(double click)
     12. Click on Attribute inspector and go to view and change the background color of card.
     13. Click the screeen and change the background color from view.
+    14. Putting an imoji on card.(but it is too small, so we go to utility bar and change the font size.
+    15. Now run and check Simulator.
+      - **Simulator** : Look like iPhone, iPad or what we set on Active scheme in XCode and shows how App is working.
