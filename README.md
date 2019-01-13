@@ -87,3 +87,12 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
     - Automatically doing something everytime a property's value changes.
     - Array
     - Optional
+## Let's Play
+    1. Open XCode.
+    2. Select 'Get Start a new Project'.
+    3. Click on iOS.
+    4. Select 'Single Line'.
+    5. Give Application name.
+      - Language :Swift.
+      - Select location
+   
