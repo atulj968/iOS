@@ -101,3 +101,5 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
     9. Main.storyboard shows UI where you drag and do things, view as iPhone 8 it means it is iPhone8 size screen.
     10. Show the utility bar click on Object-Library.
     11. Catch button and drag it on UI, Change the size & rename(double click)
+    12. Click on Attribute inspector and go to view and change the background color of card.
+    13. Click the screeen and change the background color from view.
