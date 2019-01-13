@@ -106,3 +106,5 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
     14. Putting an imoji on card.(but it is too small, so we go to utility bar and change the font size.
     15. Now run and check Simulator.
       - **Simulator** : Look like iPhone, iPad or what we set on Active scheme in XCode and shows how App is working.
+    16. Now we see on simulator that if we click on that button it flash but not flips here we need to flip it so....
+    17. Now we are going to write a swift code(.swift) to flip card on click-
