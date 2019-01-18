@@ -119,16 +119,21 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
   }
   ```
   * 18. Click on Assitant editor to make both(UI+Code) on same screen.
-  ```
   import UIKit
   class ViewController: UIViewCOntroller{
+  ```
   //hold control key and drag a line from card to code
   //pop-up comes so choose the connection(Action) & name it(touchCard).
   //Argument(Sender).
   //Type: this is type of argument(UIButton).
   //Click connect.
   //After click this is gonna give you a method.
-  @ IBAction func touchCard(_sender: UIButton)
+  ```
+  @ IBAction func touchCard(_ sender: UIButton)
+  ```
   //this is your firstlook at a swift method.
   //func-keyboard of function.
   // *Here is legal to have a funtion outside of class, they are global function.*
+  // touchCard is name of method.
+  //(_ sender: UIButton) : list of argument, UIButton is type.
+  ```
