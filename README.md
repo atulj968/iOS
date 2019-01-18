@@ -128,4 +128,7 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
   //Type: this is type of argument(UIButton).
   //Click connect.
   //After click this is gonna give you a method.
-  
+  @ IBAction func touchCard(_sender: UIButton)
+  //this is your firstlook at a swift method.
+  //func-keyboard of function.
+  //**Here is legal to have a funtion outside of class, they are global function.**
