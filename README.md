@@ -118,3 +118,4 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
   ...
   }
   ```
+  * 18. Click on Assitant editor to make both(UI+Code) on same screen.
