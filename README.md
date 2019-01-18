@@ -119,3 +119,13 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
   }
   ```
   * 18. Click on Assitant editor to make both(UI+Code) on same screen.
+  ```
+  import UIKit
+  class ViewController: UIViewCOntroller{
+  //hold control key and drag a line from card to code
+  //pop-up comes so choose the connection(Action) & name it(touchCard).
+  //Argument(Sender).
+  //Type: this is type of argument(UIButton).
+  //Click connect.
+  //After click this is gonna give you a method.
+  
