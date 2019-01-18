@@ -113,9 +113,9 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
   * class ViewController: UIViewController{} - Here we are going to declaring the class in an Object-Oriented.
   * ViewController - Super Class, here inheriting from UIViewController.This class knows everything about controlling a UI.
   
-  import UIKit
-  class ViewController: UIViewController{
-  ...
+  import UIKit<br/>
+  class ViewController: UIViewController{<br/>
+  ...<br/>
   }
   ```
   18. Click on Assitant editor to make both(UI+Code) on same screen.
