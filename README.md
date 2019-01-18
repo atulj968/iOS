@@ -138,3 +138,7 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
   // touchCard is name of method.
   //(_ sender: UIButton) : list of argument, UIButton is type.
   ```
+  {<br/>
+  flipCard(with Emoji: "👻", on: sender)<br/>
+  //print("Agh! A ghost<br/>
+  }
