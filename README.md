@@ -131,4 +131,4 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
   @ IBAction func touchCard(_sender: UIButton)
   //this is your firstlook at a swift method.
   //func-keyboard of function.
-  //**Here is legal to have a funtion outside of class, they are global function.**
+  // __Here is legal to have a funtion outside of class, they are global function.__
