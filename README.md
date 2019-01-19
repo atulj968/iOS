@@ -149,3 +149,13 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
   ```
   // here I am just gonna have this flipCard method look at the button if it's already the ghost them I'm gonna have it, flip it over to orange with no text if not then we go to put the ghost on it with white background.
   ```
+  {<br/>
+    if button.currentTitle = emoji{<br/>
+      button.setTitle(" ", for:UIControlState.normal(<br/>
+      button.background = 🔸<br/>
+      }<br/>
+     else{<br/>
+      button.setTitle(emoji,for:UIControlState.normal)<br/>
+      button.background = ▢<br/>
+      }
+   }
