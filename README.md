@@ -161,5 +161,5 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
    }
    ```
    //in 1st line sending message to button asking for current title when you press(.) it shows all mathos & variable.
-   // button.setTitle: New button is already here has the ghost on it how I want to give orange or black we give blank string because we want nothing on back side
-   ```
+   // button.setTitle: New button is already here has the ghost on it how I want to give orange or black we give blank string because we want nothing on back side.
+   //UIControlState: control taped impass(press option and take courser there and click on it, it will show you documentation) we need a normal control state.
