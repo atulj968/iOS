@@ -142,3 +142,10 @@ iOS is a mobile operating system created and developed by Apple Inc. iOS 11.
   flipCard(with Emoji: "👻", on: sender)<br/>
   //print("Agh! A ghost<br/>
   }
+  ```
+  //run the program and when you click on ghost it will show you on console.
+  ```
+  func flipCard(withEmoji emoji: string, on button: UIButton)
+  ```
+  // here I am just gonna have this flipCard method look at the button if it's already the ghost them I'm gonna have it, flip it over to orange with no text if not then we go to put the ghost on it with white background.
+  ```
